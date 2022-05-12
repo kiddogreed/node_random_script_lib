@@ -5,7 +5,7 @@ function getLetters(s){
   const c = ["h", "j", "k", "l", "m"]
   const d = ["n", "p", "q", "r", "s", "t", "v", "w", "x" , "y", "z"]
   const indx = s[0]
-  const condi = a.includes(indx)
+  const condi = true
 
   switch (condi) {
     case a.includes(indx):
