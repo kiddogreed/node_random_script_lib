@@ -1,3 +1,5 @@
+///create switch function that check if the string input initial index is included in one of these array 
+
 function getLetters(s){
   let letter
   const a = ["a", "e", "i", "o", "u"]

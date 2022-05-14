@@ -1,3 +1,4 @@
+//basic condition with nodejs
 function getGrade(score) {
     let grade
     if(score > 25  & score <= 30){

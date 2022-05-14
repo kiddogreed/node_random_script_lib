@@ -1,3 +1,4 @@
+//function that get the factors  of an input and return the total
 function factorialize(num) {
   if (num === 0 || num === 1){
     return 1;
